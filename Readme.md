@@ -46,8 +46,7 @@ The goal of this repository is to **help students learn programming, problem sol
 | 2       | Sets, Tuples, Strings & Dictionaries | [Watch](https://www.youtube.com/watch?v=f5-fw6gOocw&t=58s) | [Open](https://colab.research.google.com/drive/1-vwxF7zAKcjh0Vp1nNjpOELeEDLKE7K9?usp=sharing)           |
 | 3       | Functions & Error Handling           | [Watch](https://www.youtube.com/live/88OEB6RpVz0)          | [Open](https://colab.research.google.com/drive/1N4O_fBMdIBJgckEJyQ7zDlAxvIaLn9rr?usp=sharing)           |
 | 4       | NumPy & Pandas                       | [Watch](https://www.youtube.com/live/WSYM8ePgDCo)          | [Open](https://colab.research.google.com/drive/1VbvH7YhPK_JkmQP3IPnJWQqGeMGm_cPs#scrollTo=7ePSWzgbSQ6t) |
-
-| 5 | **Full Session Recordings + Complete Practice Sheet** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1p9k8qUkHNTZfjFboVC-K1UStlLlCWfC2ecn4XHDAnN8/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1p9k8qUkHNTZfjFboVC-K1UStlLlCWfC2ecn4XHDAnN8/edit?usp=sharing) |
+| 5       | **Full Session Recordings + Complete Practice Sheet** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1p9k8qUkHNTZfjFboVC-K1UStlLlCWfC2ecn4XHDAnN8/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1p9k8qUkHNTZfjFboVC-K1UStlLlCWfC2ecn4XHDAnN8/edit?usp=sharing) |
 
 
 ## 🏫 Python for Everyone (IcodeGuru)
