@@ -1,4 +1,4 @@
-# 🎓 Volunteer Teaching Sessions Repository
+# 🎓 Volunteer Teaching Sessions 
 
 This repository contains **all lectures, session recordings, and practice sheets** from my **volunteer teaching sessions**.
 
@@ -16,46 +16,16 @@ Each session table includes:
 
 The goal of this repository is to **help students learn programming, problem solving, and English skills through structured sessions and practical exercises.**
 
----
 
 # 📑 Table of Contents
 
-1. [📘 About This Repository](#-about-this-repository)
-2. [🐍 Python Sessions](#-python-sessions)
-3. [🧠 Data Structures & Algorithms Sessions](#-data-structures--algorithms-sessions)
-4. [🗣 IELTS Preparation Sessions](#-ielts-preparation-sessions)
-5. [🤝 Connect with Me](#-connect-with-me)
+1. [🐍 Python Sessions](#-python-sessions)
+2. [🧠 Data Structures & Algorithms Sessions](#-data-structures--algorithms-sessions)
+3. [🗣 IELTS Preparation Sessions](#-ielts-preparation-sessions)
+4. [🤝 Connect with Me](#-connect-with-me)
 
----
-
-# 📘 About This Repository
-
-These sessions are part of my **volunteer teaching initiatives** conducted with:
-
-* Coding communities
-* Universities
-* Student groups
-
-The sessions focus on **practical learning**, where students can:
-
-* Watch the **full lecture**
-* Access the **practice notebook or sheet**
-* Follow along with the **complete session material**
-
----
 
 # 🐍 Python Sessions
-
-## 🚀 ICodeGuru × WPBrigade
-
-| Session | Topics Covered                       | Lecture Recording                                          | Session Sheet                                                                                           |
-| ------- | ------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1       | For & While Loops + Lists            | [Watch](https://www.youtube.com/watch?v=eGpGb2o2fnE&t=8s)  | [Open](https://colab.research.google.com/drive/1Ur9AFum84S3vuGxXUHxkx3CJrRSnB22Z#scrollTo=meTYsqH9Cuen) |
-| 2       | Sets, Tuples, Strings & Dictionaries | [Watch](https://www.youtube.com/watch?v=f5-fw6gOocw&t=58s) | [Open](https://colab.research.google.com/drive/1-vwxF7zAKcjh0Vp1nNjpOELeEDLKE7K9?usp=sharing)           |
-| 3       | Functions & Error Handling           | [Watch](https://www.youtube.com/live/88OEB6RpVz0)          | [Open](https://colab.research.google.com/drive/1N4O_fBMdIBJgckEJyQ7zDlAxvIaLn9rr?usp=sharing)           |
-| 4       | NumPy & Pandas                       | [Watch](https://www.youtube.com/live/WSYM8ePgDCo)          | [Open](https://colab.research.google.com/drive/1VbvH7YhPK_JkmQP3IPnJWQqGeMGm_cPs#scrollTo=7ePSWzgbSQ6t) |
-
----
 
 ## 🏫 University of Sargodha (UOS)
 
@@ -67,7 +37,30 @@ The sessions focus on **practical learning**, where students can:
 | 4       | Tuples & Sets     | [Watch](https://www.youtube.com/watch?v=scfxKwCkn_M)             | [Open](https://colab.research.google.com/drive/1oVITCEUCF6anpZ4AFY8srqHlvUvDCro9?usp=sharing) |
 | 5 | **Full Session Recordings + Complete Practice Sheet** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1D9y9vbEmNQ3-OShUcgwehQTLR1oK1qAdUfSts12uYfs/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1D9y9vbEmNQ3-OShUcgwehQTLR1oK1qAdUfSts12uYfs/edit?usp=sharing) |
 
----
+
+## 🚀 ICodeGuru × WPBrigade
+
+| Session | Topics Covered                       | Lecture Recording                                          | Session Sheet                                                                                           |
+| ------- | ------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 1       | For & While Loops + Lists            | [Watch](https://www.youtube.com/watch?v=eGpGb2o2fnE&t=8s)  | [Open](https://colab.research.google.com/drive/1Ur9AFum84S3vuGxXUHxkx3CJrRSnB22Z#scrollTo=meTYsqH9Cuen) |
+| 2       | Sets, Tuples, Strings & Dictionaries | [Watch](https://www.youtube.com/watch?v=f5-fw6gOocw&t=58s) | [Open](https://colab.research.google.com/drive/1-vwxF7zAKcjh0Vp1nNjpOELeEDLKE7K9?usp=sharing)           |
+| 3       | Functions & Error Handling           | [Watch](https://www.youtube.com/live/88OEB6RpVz0)          | [Open](https://colab.research.google.com/drive/1N4O_fBMdIBJgckEJyQ7zDlAxvIaLn9rr?usp=sharing)           |
+| 4       | NumPy & Pandas                       | [Watch](https://www.youtube.com/live/WSYM8ePgDCo)          | [Open](https://colab.research.google.com/drive/1VbvH7YhPK_JkmQP3IPnJWQqGeMGm_cPs#scrollTo=7ePSWzgbSQ6t) |
+
+| 5 | **Full Session Recordings + Complete Practice Sheet** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1p9k8qUkHNTZfjFboVC-K1UStlLlCWfC2ecn4XHDAnN8/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1p9k8qUkHNTZfjFboVC-K1UStlLlCWfC2ecn4XHDAnN8/edit?usp=sharing) |
+
+
+## 🏫 Python for Everyone (IcodeGuru)
+
+| Session | Topics Covered          | Lecture Recording                                 | Session Sheet                                                                                 |
+| ------- | ----------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1       |  Input Function, Data Types & Printing      | [Watch](https://www.youtube.com/watch?v=pKwkV008iqI&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=3)             | [Open](https://colab.research.google.com/drive/1fsECQK28S3EqzjJk_-QO9nEb3JimT-yb#scrollTo=LGMB45fqQ3nl) |
+| 2       | Sets and its operations in detail | [Watch](https://www.youtube.com/watch?v=oze74ul92kk&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=8) | [Open](https://colab.research.google.com/drive/1SpIdLjMRI1-VI5USC3aGV20nOB-CwBG3?usp=sharing) |
+| 3       | Zip(),Enemurate(), In, Strings Methods   | [Watch](https://www.youtube.com/watch?v=9-uGbPwUTIk&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=12)             | [Open](https://colab.research.google.com/drive/1jAcVAtbSSgtKTj28I85NmOmqPGGHVqMu#scrollTo=uqY6ZvdjMfRw) |
+| 4       | Lambda Function, Sorting & Searching    | [Watch](https://www.youtube.com/watch?v=CrqAbFYhNzI&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=14)             | [Open](https://colab.research.google.com/drive/1yxsBZTCJSYEUsMkfLEEVCGbzVZjXl96K#scrollTo=7j20Uy4mA1Ob) |
+| 5       | OOP Basic Revision, Inheritance, Abstraction    | [Watch](https://www.youtube.com/watch?v=NOt46rCnJtc&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=16)             | [Open](https://colab.research.google.com/drive/1BLTZ-swkSQa1oom8c2gEXdk1NdoJ4AwW?usp=sharing) |
+| 6 | **Full Session Recordings + Complete Practice Sheet** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1-E7v3zXccSezTF-UnhgcRQxNvgpUX0SKuNPZk9y8R5s/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1-E7v3zXccSezTF-UnhgcRQxNvgpUX0SKuNPZk9y8R5s/edit?usp=sharing) |
+
 
 # 🧠 Data Structures & Algorithms Sessions
 
@@ -78,7 +71,6 @@ The sessions focus on **practical learning**, where students can:
 | 3       | Sliding Window           | Coming Soon       | Coming Soon   |
 | 4       | Hashing & Dictionaries   | Coming Soon       | Coming Soon   |
 
----
 
 # 🗣 IELTS Preparation Sessions
 
@@ -89,7 +81,6 @@ The sessions focus on **practical learning**, where students can:
 | 3       | IELTS Writing Task 2            | Coming Soon       | Coming Soon   |
 | 4       | IELTS Speaking Practice         | Coming Soon       | Coming Soon   |
 
----
 
 # 🤝 Connect with Me
 
@@ -104,9 +95,8 @@ AI Engineer | Volunteer Instructor | Software Engineer
 [https://github.com/AqibNiazi](https://github.com/AqibNiazi)
 
 🎥 YouTube
-[https://www.youtube.com/@AqibTechAcademy](https://www.youtube.com/@AqibTechAcademy)
+[https://www.youtube.com/@aqib-javed-niazi](https://www.youtube.com/@aqib-javed-niazi)
 
----
 
 ⭐ *If these sessions help you learn something new, consider starring the repository.*
 
