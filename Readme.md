@@ -63,12 +63,12 @@ The goal of this repository is to **help students learn programming, problem sol
 
 # 🧠 Data Structures & Algorithms Sessions
 
-| Session | Topics Covered           | Lecture Recording | Session Sheet |
-| ------- | ------------------------ | ----------------- | ------------- |
-| 1       | Arrays & Time Complexity | Coming Soon       | Coming Soon   |
-| 2       | Two Pointer Technique    | Coming Soon       | Coming Soon   |
-| 3       | Sliding Window           | Coming Soon       | Coming Soon   |
-| 4       | Hashing & Dictionaries   | Coming Soon       | Coming Soon   |
+| Session | Topics Covered         | Lecture Recording | Session Sheet                                                                 |
+| ------- | ---------------------- | ----------------- | ----------------------------------------------------------------------------- |
+| 1       | Strings (LeetCode)     | [Watch](https://www.youtube.com/watch?v=lqiKhXjC50E) | - [Fizz Buzz (412)](https://leetcode.com/problems/fizz-buzz/description/) <br> - [Isomorphic Strings (205)](https://leetcode.com/problems/isomorphic-strings/) <br> - [Rotate String (796)](https://leetcode.com/problems/rotate-string/description/) |
+| 2       | Two Pointer Technique  | Pending Upload    | Pending Upload                                                                |
+| 3       | Sliding Window         | Pending Upload    | Pending Upload                                                                |
+| 4       | Hashing & Dictionaries | Pending Upload    | Pending Upload                                                                |
 
 
 # 🗣 IELTS Preparation Sessions
