@@ -66,7 +66,7 @@ The goal of this repository is to **help students learn programming, problem sol
 | Session | Topics Covered         | Lecture Recording | Session Sheet                                                                 |
 | ------- | ---------------------- | ----------------- | ----------------------------------------------------------------------------- |
 | 1       | Strings (LeetCode)     | [Watch](https://www.youtube.com/watch?v=lqiKhXjC50E) | - [Fizz Buzz (412)](https://leetcode.com/problems/fizz-buzz/description/) <br> - [Isomorphic Strings (205)](https://leetcode.com/problems/isomorphic-strings/) <br> - [Rotate String (796)](https://leetcode.com/problems/rotate-string/description/) |
-| 2       | Two Pointer Technique  | Pending Upload    | Pending Upload                                                                |
+| 2       | String & Hashmaps (Leetcode)  |[Watch](https://www.youtube.com/watch?v=dEsGQIbv0IQ) | - [Merge Strings Alternately  (1768)](https://leetcode.com/problems/merge-strings-alternately/description/) <br> - [Two Sum (1)](https://leetcode.com/problems/two-sum/description/) |
 | 3       | Sliding Window         | Pending Upload    | Pending Upload                                                                |
 | 4       | Hashing & Dictionaries | Pending Upload    | Pending Upload                                                                |
 
