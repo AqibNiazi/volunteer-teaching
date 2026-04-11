@@ -67,6 +67,7 @@ The goal of this repository is to **help students learn programming, problem sol
 | ------- | ---------------------- | ----------------- | ----------------------------------------------------------------------------- |
 | 1       | Strings (LeetCode)     | [Watch](https://www.youtube.com/watch?v=lqiKhXjC50E) | - [Fizz Buzz (412)](https://leetcode.com/problems/fizz-buzz/description/) <br> - [Isomorphic Strings (205)](https://leetcode.com/problems/isomorphic-strings/) <br> - [Rotate String (796)](https://leetcode.com/problems/rotate-string/description/) |
 | 2       | String & Hashmaps (Leetcode)  |[Watch](https://www.youtube.com/watch?v=dEsGQIbv0IQ) | - [Merge Strings Alternately  (1768)](https://leetcode.com/problems/merge-strings-alternately/description/) <br> - [Two Sum (1)](https://leetcode.com/problems/two-sum/description/) |
+| 3       | Hashmaps (Leetcode)  |[Watch](https://www.youtube.com/watch?v=xinzL-kI8Ds) | - [Next Greater Element I  (496)](https://leetcode.com/problems/next-greater-element-i/description/) <br> - [Find the Difference of Two Arrays  (2215)](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/) |
 | 6 | **Full Session Recordings + Resources** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) |
 
 
