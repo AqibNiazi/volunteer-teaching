@@ -52,7 +52,8 @@
 | 2       | String & Hashmaps (Leetcode)  |[Watch](https://www.youtube.com/watch?v=dEsGQIbv0IQ) | - [Merge Strings Alternately  (1768)](https://leetcode.com/problems/merge-strings-alternately/description/) <br> - [Two Sum (1)](https://leetcode.com/problems/two-sum/description/) |
 | 3       | Hashmaps (Leetcode)  |[Watch](https://www.youtube.com/watch?v=xinzL-kI8Ds) | - [Next Greater Element I  (496)](https://leetcode.com/problems/next-greater-element-i/description/) <br> - [Find the Difference of Two Arrays  (2215)](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/) |
 | 4       | Hashmaps (Leetcode)  |[Watch](https://www.youtube.com/watch?v=RMK7t0TYE5Y&list=PLe-jr3hh4N_mGrjZ1buvgGxndhiNDJijP) | - [Check if the Sentence Is Pangram  (1832)](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) <br> - [Missing Number  (268)](https://leetcode.com/problems/missing-number/description/) |
-| 5 | **Full Session Recordings + Resources** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) |
+| 5       | Two Pointers (Leetcode)  |[Watch](https://www.youtube.com/watch?v=YeWyIDGOZdU&list=PLe-jr3hh4N_mGrjZ1buvgGxndhiNDJijP) | - [Reverse Vowels of a String  (345)](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) <br> - [Merge Sorted Array  (88)](https://leetcode.com/problems/merge-sorted-array/description/) |
+| 6 | **Full Session Recordings + Resources** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) |
 
 
 # 🗣 IELTS Preparation Sessions
