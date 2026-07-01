@@ -62,7 +62,7 @@
 | Session | Topics Covered | Lecture Recording | Resources |
 | ------- | -------------- | ----------------- | --------- |
 | 1 | Introduction to IELTS, Test Format & Band Descriptors | [Watch](https://www.youtube.com/watch?v=XOxhEKLxc-8) | [Open](https://docs.google.com/presentation/d/1ZCfiU4eXPWCUxj3hmp7r2uPhyxHa_O6v/edit?usp=sharing&ouid=108600821921650122239&rtpof=true&sd=true) |
-| 2 | IELTS Reading Strategies | [Watch]() | [Open]() |
+| 2 | Listening Part 1(Sentence Completion) | [Watch](https://www.youtube.com/watch?v=TPucOD_35fk) | [Open](https://docs.google.com/presentation/d/1dYFfRkNY7resKMdvk3VXBQbY69HG7PPH/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
 | 3 | IELTS Listening Strategies | [Watch]() | [Open]() |
 | 4 | IELTS Writing Task 1 | [Watch]() | [Open]() |
 | 5 | IELTS Writing Task 2 | [Watch]() | [Open]() |
