@@ -55,6 +55,21 @@
 | 6       | Stack (Leetcode)  |[Watch](https://www.youtube.com/watch?v=rxlpBnALJzA&list=PLe-jr3hh4N_mGrjZ1buvgGxndhiNDJijP) | - [Valid Parenthesis  (0020)](https://leetcode.com/problems/valid-parentheses/description/) |
 | 7       | **Full Session Recordings + Resources** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) |
 
+# 📚 IELTS Sessions
+
+## 🏫 IELTS Preparation (ICodeGuru)
+
+| Session | Topics Covered | Lecture Recording | Resources |
+| ------- | -------------- | ----------------- | --------- |
+| 1 | Introduction to IELTS, Test Format & Band Descriptors | [Watch](https://www.youtube.com/watch?v=XOxhEKLxc-8) | [Open](https://docs.google.com/presentation/d/1ZCfiU4eXPWCUxj3hmp7r2uPhyxHa_O6v/edit?usp=sharing&ouid=108600821921650122239&rtpof=true&sd=true) |
+| 2 | IELTS Reading Strategies | [Watch]() | [Open]() |
+| 3 | IELTS Listening Strategies | [Watch]() | [Open]() |
+| 4 | IELTS Writing Task 1 | [Watch]() | [Open]() |
+| 5 | IELTS Writing Task 2 | [Watch]() | [Open]() |
+| 6 | IELTS Speaking (Part 1, 2 & 3) | [Watch]() | [Open]() |
+| 7 | Vocabulary, Grammar & Common Mistakes | [Watch]() | [Open]() |
+| 8 | **Full Session Recordings + Complete Resources** | [Watch All Lectures]() | [Open Session Tracker]() |
+
 
 # 🤝 Connect with Me
 
