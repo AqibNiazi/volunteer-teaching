@@ -66,7 +66,7 @@
 | 3 | Listening Part 3 (Matching information & MCQs) | [Watch](https://www.youtube.com/watch?v=Q0nZ257O9WA) | [Open](https://docs.google.com/document/d/1-HHligOl8Uj67pe98YJVaix4yvPzwxYdGEaXDyMDiYI/edit?usp=sharing) |
 | 5 | Listening Final Tips + Mock Test | [Watch](https://www.youtube.com/watch?v=Tv6xDWOOr7c) | [Open](https://docs.google.com/document/d/1-HHligOl8Uj67pe98YJVaix4yvPzwxYdGEaXDyMDiYI/edit?usp=sharing) |
 | 6 | IELTS Speaking (Part 1, 2 & 3) | [Watch]() | [Open]() |
-| 7 | Vocabulary, Grammar & Common Mistakes | [Watch]() | [Open]() |
+| 7 | IELTS Reading(Summary and Sentence Completion) | [Watch](https://www.youtube.com/live/zTx8JKxBENo?si=Xs3qrrFEyA8Svr_N) | [Open](https://drive.google.com/file/d/1OeGxugNqLBuACD05qT6s4e_ldBfip0Kn/view?usp=drive_link) |
 | 8 | **Full Session Recordings + Complete Resources** | [Watch All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
 
 
