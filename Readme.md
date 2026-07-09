@@ -65,7 +65,8 @@
 | 2 | Listening Part 1(Sentence Completion) | [Watch](https://www.youtube.com/watch?v=TPucOD_35fk) | [Open](https://docs.google.com/presentation/d/1dYFfRkNY7resKMdvk3VXBQbY69HG7PPH/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
 | 3 | Listening Part 3 (Matching information & MCQs) | [Watch](https://www.youtube.com/watch?v=Q0nZ257O9WA) | [Open](https://docs.google.com/document/d/1-HHligOl8Uj67pe98YJVaix4yvPzwxYdGEaXDyMDiYI/edit?usp=sharing) |
 | 4 | Listening Final Tips + Mock Test | [Watch](https://www.youtube.com/watch?v=Tv6xDWOOr7c) | [Open](https://docs.google.com/document/d/1-HHligOl8Uj67pe98YJVaix4yvPzwxYdGEaXDyMDiYI/edit?usp=sharing) |
-| 5 | IELTS Reading(Summary and Sentence Completion) | [Watch](https://www.youtube.com/live/zTx8JKxBENo?si=Xs3qrrFEyA8Svr_N) | [Open](https://drive.google.com/file/d/1OeGxugNqLBuACD05qT6s4e_ldBfip0Kn/view?usp=drive_link) |
+| 5 | IELTS Reading(Summary and Sentence Completion) | [Watch](https://www.youtube.com/live/zTx8JKxBENo?si=Xs3qrrFEyA8Svr_N) | [Open](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
+| 6 | IELTS Reading(True/False/Not Given + Matching Statement Endings) | [Watch](https://www.youtube.com/watch?v=eIgY2KMrZ64) | [Open](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
 | 6 | **Full Session Recordings + Complete Resources** | [Watch All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
 
 
