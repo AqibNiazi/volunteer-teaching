@@ -67,7 +67,9 @@
 | 4 | Listening Mock Test | [Watch](https://www.youtube.com/watch?v=Tv6xDWOOr7c) | [Open](https://docs.google.com/document/d/1-HHligOl8Uj67pe98YJVaix4yvPzwxYdGEaXDyMDiYI/edit?usp=sharing) |
 | 5 | Reading (Summary and Sentence Completion) | [Watch](https://www.youtube.com/live/zTx8JKxBENo?si=Xs3qrrFEyA8Svr_N) | [Open](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
 | 6 | Reading (True/False/Not Given + Matching Statement Endings) | [Watch](https://www.youtube.com/watch?v=eIgY2KMrZ64) | [Open](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
-| 6 | **Full Session Recordings + Complete Resources** | [Watch All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
+| 7 | Reading (Yes/No/Not Given + Mathing Information) | [Watch](https://www.youtube.com/watch?v=4zJBq35uZfM) | [Open](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
+| 8 | Reading (Matching Heading + Matching Names) | [Watch](https://www.youtube.com/watch?v=q38pPuWBpg8) | [Open](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
+| 9 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Sheet](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
 
 
 # 🤝 Connect with Me
