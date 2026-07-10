@@ -81,7 +81,8 @@
 | 6 | Reading: True/False/Not Given + Matching Endings | [Watch](https://www.youtube.com/watch?v=eIgY2KMrZ64) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
 | 7 | Reading: Yes/No/Not Given + Information Matching | [Watch](https://www.youtube.com/watch?v=4zJBq35uZfM) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
 | 8 | Reading: Matching Headings + Name Matching | [Watch](https://www.youtube.com/watch?v=q38pPuWBpg8) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
-| 9 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
+| 9 | Reading: Diagram Labeling + Table Completion | [Watch](https://youtu.be/IKb_PwyHORg) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
+| 10 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
 
 
 # 🤝 Connect with Me
