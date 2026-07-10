@@ -44,8 +44,8 @@
 
 | Session | Topics Covered | Lecture Recording | Session Sheet |
 | :--- | :--- | :--- | :--- |
-| 1 | Input Function, Data Types & Printing | [Watch](https://www.youtube.com/watch?v=pKwkV008iqI&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=3) | [Open](https://colab.research.google.com/drive/1fsECQK28S3EqzjJk_-QO9nEb3JimT-yb#scrollTo=LGMB45fqQ3nl) |
-| 2 | Sets and Detailed Operations | [Watch](https://www.youtube.com/watch?v=oze74ul92kk&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=8) | [Open](https://colab.research.google.com/drive/1SpIdLjMRI1-VI5USC3aGV20nOB-CwBG3?usp=sharing) |
+| 1 | Input Function, Data Types & Printing | [Watch](https://youtu.be/m2h0ujKYLRw) | [Open](https://colab.research.google.com/drive/1fsECQK28S3EqzjJk_-QO9nEb3JimT-yb#scrollTo=LGMB45fqQ3nl) |
+| 2 | Sets and Detailed Operations | [Watch](https://youtu.be/95LBjEie9wg) | [Open](https://colab.research.google.com/drive/1SpIdLjMRI1-VI5USC3aGV20nOB-CwBG3?usp=sharing) |
 | 3 | Zip(), Enumerate(), 'In' Operator, String Methods | [Watch](https://www.youtube.com/watch?v=9-uGbPwUTIk&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=12) | [Open](https://colab.research.google.com/drive/1jAcVAtbSSgtKTj28I85NmOmqPGGHVqMu#scrollTo=uqY6ZvdjMfRw) |
 | 4 | Lambda Functions, Sorting & Searching Basics | [Watch](https://www.youtube.com/watch?v=CrqAbFYhNzI&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=14) | [Open](https://colab.research.google.com/drive/1yxsBZTCJSYEUsMkfLEEVCGbzVZjXl96K#scrollTo=7j20Uy4mA1Ob) |
 | 5 | OOP Paradigms: Revision, Inheritance, Abstraction | [Watch](https://www.youtube.com/watch?v=NOt46rCnJtc&list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&index=16) | [Open](https://colab.research.google.com/drive/1BLTZ-swkSQa1oom8c2gEXdk1NdoJ4AwW?usp=sharing) |
