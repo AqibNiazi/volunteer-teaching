@@ -1,7 +1,5 @@
 # Volunteer Teaching Experience 
 
-# Table of Contents
-
 1. [🐍 Python Sessions](#-python-sessions)
 2. [🧠 Data Structures & Algorithms Sessions](#-data-structures--algorithms-sessions)
 3. [📚 IELTS Preparation Sessions](#-ielts-sessions)
