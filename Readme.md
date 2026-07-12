@@ -1,14 +1,11 @@
-# 🎓 Academic Outreach & Volunteer Teaching Sessions 
+# Volunteer Teaching Experience 
 
-> **A centralized repository documenting 40+ hours of community leadership, technical mentorship, and language instruction across international student development platforms.**
-
-
-## 📈 Impact Overview
+## Overview
 * **Core Domains:** Foundational & Advanced Python, Data Structures & Algorithms (DSA), Academic English (IELTS)
 * **Platforms Served:** University of Sargodha, ICodeGuru, WPBrigade
 * **Key Focus:** Bridging the gap between theory and practical coding problem-solving (LeetCode tracking, data engineering basics, test-taking methodologies).
 
-# 📑 Table of Contents
+# Table of Contents
 
 1. [🐍 Python Sessions](#-python-sessions)
 2. [🧠 Data Structures & Algorithms Sessions](#-data-structures--algorithms-sessions)
