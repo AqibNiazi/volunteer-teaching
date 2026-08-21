@@ -70,10 +70,9 @@
 | 5 | Reading: Summary and Sentence Completion | [Watch](https://www.youtube.com/live/zTx8JKxBENo?si=Xs3qrrFEyA8Svr_N) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
 | 6 | Reading: True/False/Not Given + Matching Endings | [Watch](https://www.youtube.com/watch?v=eIgY2KMrZ64) |[Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
 | 7 | Reading: Yes/No/Not Given + Information Matching | [Watch](https://www.youtube.com/watch?v=4zJBq35uZfM) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
-| 8 | Reading: Matching Headings + Name Matching | [Watch](https://www.youtube.com/watch?v=q38pPuWBpg8) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
-| 9 | Reading: Matching Headings + Name Matching | [Watch](https://www.youtube.com/watch?v=q38pPuWBpg8) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
-| 10 | Reading: T/F/NG + Sentence Completion | [Watch](https://youtu.be/IGeN1QdPeAk) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
-| 11 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
+| 8 | Reading: Matching Headings + Name Matching | [Watch](https://youtu.be/WlHDCkbbI7g) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 9 | Reading: T/F/NG + Sentence Completion | [Watch](https://youtu.be/IGeN1QdPeAk) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 10 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
 
 
 # 🤝 Connect with Me
