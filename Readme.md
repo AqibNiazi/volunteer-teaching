@@ -1,14 +1,4 @@
-# 🎓 Academic Outreach & Volunteer Teaching Sessions 
-
-> **A centralized repository documenting 40+ hours of community leadership, technical mentorship, and language instruction across international student development platforms.**
-
-
-## 📈 Impact Overview
-* **Core Domains:** Foundational & Advanced Python, Data Structures & Algorithms (DSA), Academic English (IELTS)
-* **Platforms Served:** University of Sargodha, ICodeGuru, WPBrigade
-* **Key Focus:** Bridging the gap between theory and practical coding problem-solving (LeetCode tracking, data engineering basics, test-taking methodologies).
-
-# 📑 Table of Contents
+# Volunteer Teaching Experience 
 
 1. [🐍 Python Sessions](#-python-sessions)
 2. [🧠 Data Structures & Algorithms Sessions](#-data-structures--algorithms-sessions)
@@ -18,7 +8,7 @@
 
 # 🐍 Python Sessions
 
-## 🏫 University of Sargodha (UOS)
+## University of Sargodha (UOS)
 *Target Audience: Undergraduate Computer Science Students*
 
 | Session | Topics Covered | Lecture Recording | Session Sheet |
@@ -29,7 +19,7 @@
 | 4 | Tuples & Sets | [Watch](https://www.youtube.com/watch?v=scfxKwCkn_M) | [Open](https://colab.research.google.com/drive/1oVITCEUCF6anpZ4AFY8srqHlvUvDCro9?usp=sharing) |
 | 5 | **Full Session Recordings + Complete Practice Sheet** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1D9y9vbEmNQ3-OShUcgwehQTLR1oK1qAdUfSts12uYfs/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1D9y9vbEmNQ3-OShUcgwehQTLR1oK1qAdUfSts12uYfs/edit?usp=sharing) |
 
-## 🚀 Python & AI Bootcamp (ICodeGuru × WPBrigade)
+## Python & AI Bootcamp (ICodeGuru × WPBrigade)
 *Target Audience: Early-career professionals and aspiring AI Engineers*
 
 | Session | Topics Covered | Lecture Recording | Session Sheet |
@@ -40,7 +30,7 @@
 | 4 | NumPy & Pandas Foundation | [Watch](https://www.youtube.com/live/WSYM8ePgDCo) | [Open](https://colab.research.google.com/drive/1VbvH7YhPK_JkmQP3IPnJWQqGeMGm_cPs#scrollTo=7ePSWzgbSQ6t) |
 | 5 | **Full Session Recordings + Complete Practice Sheet** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1p9k8qUkHNTZfjFboVC-K1UStlLlCWfC2ecn4XHDAnN8/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1p9k8qUkHNTZfjFboVC-K1UStlLlCWfC2ecn4XHDAnN8/edit?usp=sharing) |
 
-## 🏫 Python for Everyone (ICodeGuru)
+## Python for Everyone (ICodeGuru)
 
 | Session | Topics Covered | Lecture Recording | Session Sheet |
 | :--- | :--- | :--- | :--- |
@@ -68,7 +58,7 @@
 
 # 📚 IELTS Sessions
 
-## 🏫 IELTS Preparation (ICodeGuru)
+## IELTS Preparation (ICodeGuru)
 *Focus: Helping international student cohorts master academic English and high-band strategies.*
 
 | Session | Topics Covered | Lecture Recording | Resources |
