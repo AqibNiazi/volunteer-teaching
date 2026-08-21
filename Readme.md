@@ -77,12 +77,13 @@
 | 2 | Listening: Sentence Completion Strategies | [Watch](https://www.youtube.com/watch?v=TPucOD_35fk) | [Open Deck](https://docs.google.com/presentation/d/1dYFfRkNY7resKMdvk3VXBQbY69HG7PPH/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
 | 3 | Listening: Matching Information & MCQs | [Watch](https://www.youtube.com/watch?v=Q0nZ257O9WA) | [Open Document](https://docs.google.com/document/d/1-HHligOl8Uj67pe98YJVaix4yvPzwxYdGEaXDyMDiYI/edit?usp=sharing) |
 | 4 | Listening: Controlled Mock Test & Diagnostics | [Watch](https://www.youtube.com/watch?v=Tv6xDWOOr7c) | [Open Document](https://docs.google.com/document/d/1-HHligOl8Uj67pe98YJVaix4yvPzwxYdGEaXDyMDiYI/edit?usp=sharing) |
-| 5 | Reading: Summary and Sentence Completion | [Watch](https://www.youtube.com/live/zTx8JKxBENo?si=Xs3qrrFEyA8Svr_N) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
-| 6 | Reading: True/False/Not Given + Matching Endings | [Watch](https://www.youtube.com/watch?v=eIgY2KMrZ64) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
-| 7 | Reading: Yes/No/Not Given + Information Matching | [Watch](https://www.youtube.com/watch?v=4zJBq35uZfM) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
-| 8 | Reading: Matching Headings + Name Matching | [Watch](https://www.youtube.com/watch?v=q38pPuWBpg8) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
-| 9 | Reading: Diagram Labeling + Table Completion | [Watch](https://youtu.be/IKb_PwyHORg) | [Open Deck](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
-| 10 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
+| 5 | Reading: Summary and Sentence Completion | [Watch](https://www.youtube.com/live/zTx8JKxBENo?si=Xs3qrrFEyA8Svr_N) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 6 | Reading: True/False/Not Given + Matching Endings | [Watch](https://www.youtube.com/watch?v=eIgY2KMrZ64) |[Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 7 | Reading: Yes/No/Not Given + Information Matching | [Watch](https://www.youtube.com/watch?v=4zJBq35uZfM) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 8 | Reading: Matching Headings + Name Matching | [Watch](https://www.youtube.com/watch?v=q38pPuWBpg8) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 9 | Reading: Matching Headings + Name Matching | [Watch](https://www.youtube.com/watch?v=q38pPuWBpg8) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 10 | Reading: T/F/NG + Sentence Completion | [Watch](https://youtu.be/IGeN1QdPeAk) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 11 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
 
 
 # 🤝 Connect with Me
