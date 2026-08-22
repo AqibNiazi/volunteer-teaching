@@ -1,12 +1,6 @@
 # Volunteer Teaching Experience 
 
-1. [🐍 Python Sessions](#-python-sessions)
-2. [🧠 Data Structures & Algorithms Sessions](#-data-structures--algorithms-sessions)
-3. [📚 IELTS Preparation Sessions](#-ielts-sessions)
-4. [🤝 Connect with Me](#-connect-with-me)
-
-
-# 🐍 Python Sessions
+# Python Series
 
 ## University of Sargodha (UOS)
 *Target Audience: Undergraduate Computer Science Students*
@@ -42,7 +36,7 @@
 | 6 | **Full Session Recordings + Complete Practice Sheet** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1-E7v3zXccSezTF-UnhgcRQxNvgpUX0SKuNPZk9y8R5s/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1-E7v3zXccSezTF-UnhgcRQxNvgpUX0SKuNPZk9y8R5s/edit?usp=sharing) |
 
 
-# 🧠 Data Structures & Algorithms Sessions
+# Data Structures & Algorithms Sessions
 *Focus: Algorithmic Thinking and LeetCode Problem-Solving Methodologies*
 
 | Session | Topics Covered | Lecture Recording | Problem Sets Covered (LeetCode) |
@@ -56,7 +50,7 @@
 | 7 | **Full Session Recordings + Resources** | [Watch All Lectures](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) | [Open Session Tracker](https://docs.google.com/spreadsheets/d/1qC8uc0gD6eLTAupm15vwkBUkgde7at0vmm0n-Kjyotg/edit?usp=sharing) |
 
 
-# 📚 IELTS Sessions
+# IELTS Sessions
 
 ## IELTS Preparation (ICodeGuru)
 *Focus: Helping international student cohorts master academic English and high-band strategies.*
@@ -72,7 +66,9 @@
 | 7 | Reading: Yes/No/Not Given + Information Matching | [Watch](https://www.youtube.com/watch?v=4zJBq35uZfM) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
 | 8 | Reading: Matching Headings + Name Matching | [Watch](https://youtu.be/WlHDCkbbI7g) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
 | 9 | Reading: T/F/NG + Sentence Completion | [Watch](https://youtu.be/IGeN1QdPeAk) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
-| 10 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
+| 10 | Reading:  Yes/No/Not Given | [Watch](https://youtu.be/qBfpOfgfr3Y) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 11 | Reading: Matching Sentence Endings | [Watch](https://youtu.be/xZJIfxwMLfU) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
+| 12 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
 
 
 # 🤝 Connect with Me
