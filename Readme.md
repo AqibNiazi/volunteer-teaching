@@ -1,4 +1,14 @@
-# Volunteer Teaching Experience 
+# Volunteer Teaching Experience
+
+This repository documents my volunteer teaching experience through the **ICodeGuru community**, including sessions on Python, Data Structures & Algorithms, and IELTS preparation.
+
+I created this repository to keep a record of the sessions I have conducted, the topics covered, lecture recordings, practice materials, and other resources shared with learners.
+
+## Teaching Areas
+
+* **Python Programming**
+* **Data Structures & Algorithms**
+* **IELTS Preparation**
 
 # Python Series
 
