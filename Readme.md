@@ -100,7 +100,7 @@ Alongside my IELTS teaching sessions at **ICodeGuru**, I am developing a structu
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/maqibjaved/)
 * 💻 [GitHub](https://github.com/AqibNiazi)
-* 🎥 [YouTube](https://www.youtube.com/@aqib-javed-niazi)
+* 🎥 [YouTube](https://www.youtube.com/@engr-aqib-javed)
 
 
 > "Teaching a concept is the ultimate benchmark of understanding it."
