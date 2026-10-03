@@ -85,10 +85,11 @@ Alongside my IELTS teaching sessions at **ICodeGuru**, I am developing a structu
 
 | Module        | Topics / Materials                         |                        Lecture Playlists                        |                              Resources                              |
 | :------------ | :----------------------------------------- | :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| **Listening** | Question types, strategies & practice      | [Playlist](https://www.youtube.com/playlist?list=PLXeF4Y5zkj90) | [IELTS Notes](https://github.com/AqibNiazi/ielts-preparation-notes) |
-| **Reading**   | Question types, strategies & practice      |                           Coming Soon                           | [IELTS Notes](https://github.com/AqibNiazi/ielts-preparation-notes) |
-| **Writing**   | Academic Writing, grammar & task practice  |                           Coming Soon                           | [IELTS Notes](https://github.com/AqibNiazi/ielts-preparation-notes) |
-| **Speaking**  | Strategies, vocabulary, grammar & practice |                           Coming Soon                           | [IELTS Notes](https://github.com/AqibNiazi/ielts-preparation-notes) |
+| **Listening** | Question types, strategies & practice      | [Playlist](https://www.youtube.com/playlist?list=PLXeF4Y5zkj90) | [Listening Notes](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Listening) |
+| **Reading**   | Question types, strategies & practice      |  [Playlist](https://www.youtube.com/playlist?list=PLPJqVS0Drv-I) | [Reading Notes](https://github.com/AqibNiazi/ielts-preparation-notes/blob/main/Reading/Readme.md) |
+| **Writing Task 1**   | Academic Writing Task 1, grammar & task practice  |  [Playlist](https://www.youtube.com/playlist?list=PLCvyiK11lMo0) | [Task 1 Notes](https://github.com/AqibNiazi/ielts-preparation-notes/blob/main/Writing/Task-01/Readme.md) |
+| **Writing Task 2**   | Academic Writing Task 2, grammar & task practice  |  [Playlist](https://www.youtube.com/playlist?list=PLUz3FLkHLSw8) | [Task 2 Notes](https://github.com/AqibNiazi/ielts-preparation-notes/blob/main/Writing/Task-02/Readme.md) |
+| **Speaking**  | Strategies, vocabulary, grammar & practice |   [Playlist](https://www.youtube.com/playlist?list=PLXeF4Y5zkj90) | [Speaking Notes](https://github.com/AqibNiazi/ielts-preparation-notes/blob/main/Speaking/Readme.md) |
 
 > The course is being developed progressively, with new lectures, practice materials, and resources added regularly.
 
