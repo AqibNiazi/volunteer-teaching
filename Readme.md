@@ -11,7 +11,6 @@ I created this repository to keep a record of the sessions I have conducted, the
 * **IELTS Preparation**
 
 # Python Series
-
 ## University of Sargodha (UOS)
 *Target Audience: Undergraduate Computer Science Students*
 
@@ -80,6 +79,18 @@ I created this repository to keep a record of the sessions I have conducted, the
 | 11 | Reading: Matching Sentence Endings | [Watch](https://youtu.be/xZJIfxwMLfU) | [Reading-eBook](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
 | 12 | **Full Session Recordings + Complete Resources** | [All Lectures](https://www.youtube.com/playlist?list=PLBXi_ryTbHgqe51h0FFuoYQDbzYA9cTcT) | [Session Tracker](https://docs.google.com/spreadsheets/d/1XAvWu2dyg6zF3xBG4RBAnA0xFEj5jSQBA1QtLtNxoS4/edit?gid=0#gid=0) |
 
+## 📚 IELTS Learning Materials
+
+Alongside my IELTS teaching sessions at **ICodeGuru**, I am developing a structured IELTS preparation course with recorded lectures, practice materials, and learning resources for ICodeGuru students.
+
+| Module        | Topics / Materials                         |                        Lecture Playlists                        |                              Resources                              |
+| :------------ | :----------------------------------------- | :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| **Listening** | Question types, strategies & practice      | [Playlist](https://www.youtube.com/playlist?list=PLXeF4Y5zkj90) | [IELTS Notes](https://github.com/AqibNiazi/ielts-preparation-notes) |
+| **Reading**   | Question types, strategies & practice      |                           Coming Soon                           | [IELTS Notes](https://github.com/AqibNiazi/ielts-preparation-notes) |
+| **Writing**   | Academic Writing, grammar & task practice  |                           Coming Soon                           | [IELTS Notes](https://github.com/AqibNiazi/ielts-preparation-notes) |
+| **Speaking**  | Strategies, vocabulary, grammar & practice |                           Coming Soon                           | [IELTS Notes](https://github.com/AqibNiazi/ielts-preparation-notes) |
+
+> The course is being developed progressively, with new lectures, practice materials, and resources added regularly.
 
 # 🤝 Connect with Me
 
